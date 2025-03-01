@@ -1,12 +1,27 @@
-# React + Vite
+# Neonverse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Neonverse is a sleek and modern landing page designed using **React.js** and **Tailwind CSS**, with custom animations crafted using **raw CSS**. The project showcases smooth UI animations and a responsive design, offering a futuristic and immersive experience.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can view the live version of the project here:  
+[Neonverse Live](https://sora-neonverse.netlify.app/)
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Responsive Design**: Optimized for all screen sizes to ensure a great experience on mobile, tablet, and desktop devices.
+- **Smooth Animations**: Custom animations using raw CSS to create a dynamic and engaging UI.
+- **Modern UI**: Clean, modern design using Tailwind CSS for flexible and efficient styling.
+- **React**: Built with React.js to manage the user interface efficiently.
+
+## Tech Stack
+
+- **Frontend**:
+  - React.js
+  - Tailwind CSS
+  - Raw CSS (for animations and custom styles)
+  - JavaScript (ES6+)
+
+- **No Backend**: This project is purely frontend-focused and does not have a backend.
+
+ 
