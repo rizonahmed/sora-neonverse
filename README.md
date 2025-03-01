@@ -1,6 +1,6 @@
-# Neonverse
+# Sora-Neonverse
 
-Neonverse is a sleek and modern landing page designed using **React.js** and **Tailwind CSS**, with custom animations crafted using **raw CSS**. The project showcases smooth UI animations and a responsive design, offering a futuristic and immersive experience.
+Sora-Neonverse is a sleek and modern landing page designed using **React.js** and **Tailwind CSS**, with custom animations crafted using **raw CSS**. The project showcases smooth UI animations and a responsive design, offering a futuristic and immersive experience.
 
 ## Live Demo
 
